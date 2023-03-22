@@ -1,0 +1,108 @@
+.inicio {
+    width: 100%;
+    height: 8rem;
+    padding: 0.5rem 5rem;
+    border-bottom: 1rem solid;
+
+}
+
+.icono {
+    margin: 15px;
+    width: 5rem;
+    float: left;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+    font-size: 2rem;
+
+}
+
+h1 {
+    font-size: 2rem;
+
+}
+
+ul li {
+    display: inline-block;
+    padding: 0px 20px;
+
+
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: overline;
+
+}
+
+a:hover {
+    color:paleturquoise;
+
+}
+
+.imagen {
+    height: 30rem;
+    padding: 5rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.parrafo1 {
+    margin: 10rem;
+    font-size: 2rem;
+
+}
+
+.parrafo2 {
+    margin: 10rem;
+    font-size: 2rem;
+
+}
+
+.tabla1 tr td img {
+    width: 10rem;
+}
+
+.final {
+    text-align: center;
+    width: 10rem;
+}
+
+.titulo2 {
+    padding: 5rem;
+    font-size: 3rem;
+    text-align: left;
+}
+
+tr td {
+    padding: 1rem;
+}
+
+tr td p {
+    font-size: 2rem;
+}
+
+.fto {
+    padding: 10rem;
+    width: 10rem;
+}
+
+.PC {
+    font-size: 2rem;
+    margin: 10rem;
+}
